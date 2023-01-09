@@ -1,0 +1,13 @@
+/* Genaral */
+ul {
+  list-style-type: none
+}
+/* Background */
+#navbar_background-color{
+  background-color: whitesmoke;
+  width: auto 0;
+}
+
+#padding_nav_brand{
+  padding: 8px;
+}

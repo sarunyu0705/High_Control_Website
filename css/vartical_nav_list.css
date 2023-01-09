@@ -1,0 +1,28 @@
+#ul_navlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 5;
+  background-color: #f1f1f1;
+}
+
+#ul_navlist a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+#ul_navlist a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+#ul_navlist a:hover:not(.active) {
+  background-color: #04AA6D;
+  color: white;
+}
+
+#padding_nav_brand2{
+  padding: 8px;
+}

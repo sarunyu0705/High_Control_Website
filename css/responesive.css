@@ -1,0 +1,97 @@
+@media screen and (min-width: 501px) and (max-width: 769px){
+  .navlogo_res_mobile {
+    width: 100%;
+    float: left;
+    padding: 0.5%;
+  }
+
+  .text_res_mobile {
+    font-size: 20px;
+  }
+
+  .img_res_mobile {
+    padding: 2px;
+    width: 14rem;
+    height: 10rem;
+  }
+
+  .font_size_main {
+    font-size: 1.2rem;
+  }
+
+  .button_res_mobile {
+    width: 8rem;
+    height: 2rem;
+  }
+
+}
+
+@media screen and (min-width: 200px) and (max-width: 500px){
+  .navlogo_res_mobile {
+    width: 100%;
+    float: left;
+    padding: 0%;
+    margin: 0;
+  }
+
+  .img_res_mobile {
+    padding: 2px;
+    width: 14rem;
+    height: 10rem;
+  }
+
+  .img_header_res {
+    width: 100%;
+    max-width: 400px;
+    height: 200px;
+  }
+
+  .icon_service {
+    padding: 10px;
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .font_size_icon {
+    font-size: 12px;
+  }
+
+  .font_size_main {
+    font-size: 1.2rem;
+  }
+
+  .button_res_mobile {
+    width: 10rem;
+    height: 2rem;
+    padding: 5rem;
+  }
+
+
+
+  .popup button {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px 10px auto;
+    background-color: transparent;
+    font-size: 30px;
+    color: white;
+    background: #03549a;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+
+  .popup p {
+    font-size: 14px;
+    text-align: justify;
+    margin: 20px 0;
+    line-height: 25px;
+  }
+
+
+}

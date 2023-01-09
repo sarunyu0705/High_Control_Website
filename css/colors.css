@@ -1,0 +1,15 @@
+/* text color */
+.text-color {
+    color: #000;
+} 
+
+/*background color */
+.bg_color_nav1 {
+    background-color: #ffffff;
+}
+
+.bg_color_nav2 {
+    background-color: #4267B2;
+    color: #ffffff;
+}
+
